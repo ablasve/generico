@@ -1,0 +1,14 @@
+---
+title: "Áreas"
+author: "Ana Blasco Vega"
+date: "2025-10-08"
+output: html_document
+---
+
+
+## Área círculo
+
+```{r}
+r <- 0.5
+Area <- pi*r^2
+```
